@@ -1,3 +1,9 @@
+## 0.1.1 (2023-06-09)
+
+### Fix
+
+- Setting annotated tags to true
+
 ## 0.1.0 (2023-06-09)
 
 ### Feat
